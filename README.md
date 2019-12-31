@@ -1,5 +1,5 @@
 # awesome-resume3.0
-
+基于Vue.js的在线简历设计平台
 ## Project setup
 ```
 npm install
